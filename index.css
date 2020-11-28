@@ -1,0 +1,19 @@
+body{
+    background-color:#FFA07A;
+}
+.map{
+    width: 500px;
+    height: 500px;
+    border: 3px solid darkgreen;
+    border-radius: 20px;
+    margin: auto;
+    box-shadow: 0 0 25px darkgreen;
+}
+
+.top-label{
+    width: 100%;
+    text-align: center;
+    font-size: 24pt;
+    color: #264e40;
+    margin-bottom: 5pt;
+}
